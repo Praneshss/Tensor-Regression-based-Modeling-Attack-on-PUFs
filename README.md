@@ -18,7 +18,7 @@ ECP-TRN
 
 
 ## Requirements
-The experimenta are carried out with 
+The modeling experiments are carried out with 
 
 Python 2.7
 
