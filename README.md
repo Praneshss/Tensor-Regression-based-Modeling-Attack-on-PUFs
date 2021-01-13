@@ -18,7 +18,10 @@ ECP-TRN
 
 
 ## Requirements
-The experimenta are carried out with Python 2.7
+The experimenta are carried out with 
+
+Python 2.7
+
 Tensorflow 1.12
 
 
@@ -27,7 +30,7 @@ The code needs to be polished and parameterized.
 The current repository code performs TRN based modeling attack on 64-bit 7-XOR Arbiter PUF. To run the code,
 ```bash
 
-python ecptrn_xor7.py
+python ecp_trn_xor7.py
 
 ```
 
@@ -46,6 +49,7 @@ set the batch size value to variable ```batch_size```
 We list the required changes for the code to run on different XORs
 
 1. df1 - parity features
+
    df2 - PUF response  (target label)
 
 2. set the size of y1 to x for modeling x-XOR APUF
