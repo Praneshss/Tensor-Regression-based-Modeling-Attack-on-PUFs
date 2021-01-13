@@ -8,7 +8,7 @@ This repository contains the Tensorflow implementation of the IEEE TCAD paper [A
 ## Folder Structure
 The folder structures should be the same as following
 ```
-ECP-TRN
+ECP_TRN
 ├── out/
 ├── dataset/
 ├── ecp_trn_xor7.py
