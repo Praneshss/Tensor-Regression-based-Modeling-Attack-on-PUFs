@@ -2,9 +2,10 @@
 A Computationally Efficient Tensor Regression Network based Modeling Attack on XOR Arbiter PUF and its Variants (ECP-TRN)
 
 ## Introduction
-This repository contains the Tensorflow implementation of the IEEE TCAD paper [A Computationally Efficient Tensor Regression Network based Modeling Attack on XOR Arbiter PUF and its Variants](https://ieeexplore.ieee.org/abstract/document/9233262). 
+This repository contains the Tensorflow implementation of the IEEE TCAD paper [A Computationally Efficient Tensor Regression Network based Modeling Attack on XOR Arbiter PUF and its Variants](https://ieeexplore.ieee.org/abstract/document/9233262). Please follow the instructions below for usage.
 
-##Folder Structure
+
+## Folder Structure
 The folder structures should be the same as following
 ```
 ECP-TRN
@@ -16,7 +17,7 @@ ECP-TRN
 
 
 
-#Requirements
+## Requirements
 The experimenta are carried out with Python 2.7
 Tensorflow 1.12
 
