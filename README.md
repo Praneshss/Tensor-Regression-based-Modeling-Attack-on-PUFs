@@ -26,7 +26,8 @@ Tensorflow 1.12
 
 
 ## Usage
-The code needs to be polished and parameterized.
+The code needs to be polished and parameterized ( :( ).
+
 The current repository code performs TRN based modeling attack on 64-bit 7-XOR Arbiter PUF. To run the code,
 ```bash
 
