@@ -3,7 +3,7 @@ import sys, os
 
 import tensorflow as tf
 import numpy as np
-from util import TNSR
+
 
 
 def ecp_trn(x,y1, rank, n_outputs):
